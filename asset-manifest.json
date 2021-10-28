@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/moweather/static/css/main.2f84db4b.chunk.css",
-    "main.js": "/moweather/static/js/main.bd657c97.chunk.js",
-    "main.js.map": "/moweather/static/js/main.bd657c97.chunk.js.map",
+    "main.js": "/moweather/static/js/main.a9a79833.chunk.js",
+    "main.js.map": "/moweather/static/js/main.a9a79833.chunk.js.map",
     "runtime-main.js": "/moweather/static/js/runtime-main.6bba3a71.js",
     "runtime-main.js.map": "/moweather/static/js/runtime-main.6bba3a71.js.map",
-    "static/js/2.67a7f686.chunk.js": "/moweather/static/js/2.67a7f686.chunk.js",
-    "static/js/2.67a7f686.chunk.js.map": "/moweather/static/js/2.67a7f686.chunk.js.map",
+    "static/js/2.a4515385.chunk.js": "/moweather/static/js/2.a4515385.chunk.js",
+    "static/js/2.a4515385.chunk.js.map": "/moweather/static/js/2.a4515385.chunk.js.map",
     "static/js/3.faeecce0.chunk.js": "/moweather/static/js/3.faeecce0.chunk.js",
     "static/js/3.faeecce0.chunk.js.map": "/moweather/static/js/3.faeecce0.chunk.js.map",
     "index.html": "/moweather/index.html",
     "static/css/main.2f84db4b.chunk.css.map": "/moweather/static/css/main.2f84db4b.chunk.css.map",
-    "static/js/2.67a7f686.chunk.js.LICENSE.txt": "/moweather/static/js/2.67a7f686.chunk.js.LICENSE.txt"
+    "static/js/2.a4515385.chunk.js.LICENSE.txt": "/moweather/static/js/2.a4515385.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6bba3a71.js",
-    "static/js/2.67a7f686.chunk.js",
+    "static/js/2.a4515385.chunk.js",
     "static/css/main.2f84db4b.chunk.css",
-    "static/js/main.bd657c97.chunk.js"
+    "static/js/main.a9a79833.chunk.js"
   ]
 }
